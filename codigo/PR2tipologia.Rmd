@@ -305,3 +305,11 @@ Por último, el contraste de análisis de la talasemia y probabilidad de tener u
 | Redacción de las respuestas  | JR, IA  |
 | Desarrollo del código        | JR, IA  |
 | Participación en el vídeo    | JR, IA  |
+
+# 7.Github
+
+https://github.com/inakitreku/Tipologia_y_vida_datos_PRA2
+
+# 8.Vídeo
+
+https://drive.google.com/file/d/1HEOzjkuohlX4WgqEc-xsZFZVWXtrg1__/view?usp=drive_link 
